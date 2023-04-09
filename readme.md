@@ -1,5 +1,6 @@
-### Readme 
+### Readme
 
+PART 1 -- By vastevenson (outdated)
 To run this program, make sure to get the video id list output from the Google API and update the values in the .json files under the `music_playlist_content_details_jsons` dir.
 
 After you have loaded the video id targets, then run `run.py` and the program will save the `.mp3` files to a directory called: `saved_mp3s`
@@ -21,5 +22,3 @@ To get the video Ids from a playlist: https://developers.google.com/youtube/v3/d
 `maxResultsPerPage` == 1000
 
 Note that you only get 50 results per response, so you need to use the next page token while one exists to get all videos - use the `pageToken` to get the next page of results. Then, we will parse these to get the video Ids that can then be used to download the mp3.
-
-
