@@ -4,7 +4,7 @@
 
 ## Description
 
-YouTube has significantly more material than any streaming serice can currently offer. Content is regularly removed from Youtube, and that has personally affected me as I've lost music I'll never get to hear again. For this reason, I convert some content to MP3 format via 3rd party websites so I can have a personal copy to listen to. I've always been curious about the inner workings of these converters and also hesistant about viruses, etc. 
+YouTube has significantly more material than any streaming service can currently offer. Content is regularly removed from Youtube, and that has personally affected me as I've lost music I'll never get to hear again. For this reason, I convert some content to MP3 format via 3rd party websites so I can have a personal copy to listen to. I've always been curious about the inner workings of these converters and also hesistant about viruses, etc. 
 I created this project to automate a tedious task and further my own knowledge. Previously, converting my YouTube playlists to MP3 format was very inefficient. I would have to convert each video in my playlist individually. Now, I can simply provide this application the link to my playlist and it will handle everything. 
 
 Note: Videos over 10 minutes long will not be converted. To update this to suit your needs, see 'yt.length' on "main.py" 
