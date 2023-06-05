@@ -2,3 +2,10 @@
 *.xml
 *.iml
 /saved_mp3s
+
+/backend/venv
+/backend/.DS_Store
+/backend/__pycache__
+/backend/saved_mp3s
+/backend/saved_zips
+.DS_Store
