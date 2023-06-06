@@ -1,4 +1,4 @@
-### Readme (WIP)
+#### Readme
 
 # Youtube Playlist to MP3 Converter
 
@@ -13,18 +13,8 @@ Note: Initial backend code was obtained from: https://github.com/vastevenson/pyt
 
 <img width="1918" alt="image" src="https://user-images.githubusercontent.com/47201322/230751298-086b025d-1273-4418-b421-674687516afd.png">
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 1. Clone this repository. 
 2. Open your terminal and create 2 instances/tabs. Navigate to the root directory, then "cd" into the client and backend folders respectively. 
@@ -33,25 +23,24 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+### Demo
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Demo](./assets/YT2MP3Demo.mov)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-    
+### Screenshots
 
-## Credits
+#### Step 1. Landing Page ####
+![Landing Page](./assets/images/1_Step1.png)
 
-List your collaborators, if any, with links to their GitHub profiles.
+#### Step 2. Copy Playlist ID ####
+![Playlist ID](./assets/images/2_Step2.png)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+#### Step 3. Paste Playlist ID and click the Convert button ####
+![Convert](./assets/images/3_Step3.png)
 
-If you followed tutorials, include links to those here as well.
+#### Step 4. Click the Download button ####
+![Download](./assets/images/4_Step4.png)
 
-## License
+#### Step 5. Unzip the downloaded zipped folder and access your files ####
+![Complete](./assets/images/5_Step5.png)
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
