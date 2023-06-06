@@ -25,7 +25,7 @@ Note: Initial backend code was obtained from: https://github.com/vastevenson/pyt
 
 ### Demo
 
-![Demo](./assets/YT2MP3Demo.mov)
+![Demo](./assets/images/YT2MP3DemoGif.gif)
 
 ### Screenshots
 
